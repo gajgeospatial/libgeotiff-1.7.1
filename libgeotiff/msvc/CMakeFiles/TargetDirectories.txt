@@ -1,0 +1,12 @@
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/CMakeFiles/geotiff_library.dir
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/CMakeFiles/ZERO_CHECK.dir
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/libxtiff/CMakeFiles/xtiff.dir
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/libxtiff/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/bin/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/bin/CMakeFiles/makegeo.dir
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/bin/CMakeFiles/geotifcp.dir
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/bin/CMakeFiles/listgeo.dir
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/bin/CMakeFiles/applygeo.dir
+N:/Development/Dev_Base/libgeotiff-1.7.1/libgeotiff/msvc/cmake/CMakeFiles/INSTALL.dir

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\cpl_serv.c" />
+    <ClCompile Include="..\geo_extra.c" />
+    <ClCompile Include="..\geo_free.c" />
+    <ClCompile Include="..\geo_get.c" />
+    <ClCompile Include="..\geo_names.c" />
+    <ClCompile Include="..\geo_new.c" />
+    <ClCompile Include="..\geo_normalize.c" />
+    <ClCompile Include="..\geo_print.c" />
+    <ClCompile Include="..\geo_set.c" />
+    <ClCompile Include="..\geo_simpletags.c" />
+    <ClCompile Include="..\geo_tiffp.c" />
+    <ClCompile Include="..\geo_trans.c" />
+    <ClCompile Include="..\geo_write.c" />
+    <ClCompile Include="..\geotiff_proj4.c" />
+    <ClCompile Include="..\libxtiff\xtiff.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{58E593B6-437D-4633-91EC-A3E0C968F366}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Files">
+      <UniqueIdentifier>{AF4EBF10-7BFA-4CAE-8B49-C41DD8F58420}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

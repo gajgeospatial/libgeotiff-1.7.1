@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="N:\Development\Dev_Base\libgeotiff-1.7.1\libgeotiff\msvc\CMakeFiles\8cf6585185d49804462efee9daeb0367\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{87508B55-9C5D-3340-96C8-2C40BFBFEB2D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
